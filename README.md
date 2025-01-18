@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--
-**Xylonox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Мой сайт</title>
+    <style>
+        body { text-align: center; font-family: Arial, sans-serif; }
+        h1 { color: blue; }
+    </style>
+</head>
+<body>
+    <h1>Привет, мир!</h1>
+    <p>Это мой первый сайт на GitHub Pages.</p>
+</body>
+</html>
